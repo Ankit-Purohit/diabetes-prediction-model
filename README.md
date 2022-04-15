@@ -1,1 +1,1 @@
-# diabetes-prediction-model
+# Diabetes-Prediction-using-ML-AND-DL
